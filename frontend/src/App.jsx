@@ -17,7 +17,7 @@ function App() {
         <NavBar />
         <div className='container mx-auto'>
           <HeroSection />
-          <Slider images={partnersLogo} />
+          <Slider></Slider>
         </div>
       </div>
     </>
